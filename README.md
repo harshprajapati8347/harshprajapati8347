@@ -9,6 +9,8 @@
 - 🌱 I’m currently Expertizing <img src="./assets/m.png"><img src="./assets/e.png"><img src="./assets/react-native.png"><img src="./assets/n.png"> MERN Stack.
  
 - 👨‍💻 I’m looking to collaborate for a **MERN** based or any **WEB project**.
+
+- 💬 Connect : harshprajapati0123@gmail.com | <img alt="HarshLinkedIN | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
  
 <!-- 💬 Ask me about Full Stack Development, Version Control Tool , and any Tech-related stuff. -->
 
