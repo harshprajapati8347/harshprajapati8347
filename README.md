@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="./Profile.png" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="./Profile.gif" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 I am a Full-stack Web Developer who is exploring new technologies 👨‍💻 while facilitating the world with User Experience  with my Design Thinking Skills and Enthusiast about WEB. :wink:
