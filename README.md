@@ -1,6 +1,4 @@
-### :arrow_forward: Hi, I'm Harsh 👋
-
----
+### 🚀 Hi, I'm Harsh 👋
 
 - 🔭 I'm currently working on __MERN Stack WEB Developement__.
 
