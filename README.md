@@ -12,10 +12,10 @@ I am a Full-stack Web Developer who is exploring new technologies 👨‍💻 wh
 
  <!-- 🔭 I’m planning to build Projects in **MERN Stack WEB**. -->
  
- 🌱 I’m currently Expertizing <img src="./m.png"><img src="./e.png"><img src="./react-native.png"><img src="./n.png"> MERN Stack 
+ 🌱 I’m currently Expertizing <img src="./m.png"><img src="./e.png"><img src="./react-native.png"><img src="./n.png"> MERN Stack.
  
  :books: I want to learn <img src="./react-native.png">React-Native
- and Artificial Intelligence <img src="./ai.png"/>
+ and <img src="./ai.png"/> Artificial Intelligence. 
  
  👯 I’m looking to collaborate for a **MERN** based or any **WEB project**.
  
@@ -38,8 +38,8 @@ I am a Full-stack Web Developer who is exploring new technologies 👨‍💻 wh
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
+<!-- <img src=""> -->
+<!-- <img src=""> -->
 <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
@@ -49,36 +49,37 @@ I am a Full-stack Web Developer who is exploring new technologies 👨‍💻 wh
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
-<img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
+<!-- <img src=""> -->
 
 ### Other Languages I know
-<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
+<!-- <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> -->
+ <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Souravdey777&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=harshprajapati8347&show_icons=true&hide_border=true)
 
-Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/souravdey777)
+<!-- Check for a detailed stats here :point_right: [Source](https://sourcerer.io/souravdey777) -->
 
 ---
 
 
 ### You can find in me in the web 🌍
-[<img align="left" alt="Souarvdey777" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Souarvdey777 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="Souarvdey777 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="HarshPrajapati" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="HarshPrajapati | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][facebook]
+[<img align="left" alt="HarshPrajapati | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="HarshPrajapati | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="HarshPrajapati | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
 
 
 ---
-### You can checkout my blogs :loudspeaker: 
+<!-- ### You can checkout my blogs :loudspeaker: 
 
-[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=Souravdey777&type=vertical)](https://medium.com/@Souravdey777)
+[![Harsh PRajapati's Blog Cards](https://github-cards-external-blogs.harshprajapati8347.vercel.app/getMediumBlogs?username=harshprajapati8347&type=vertical)](https://medium.com/harshprajapati8347)
 
-[Add your blogs to your github profile using my Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs) 
+[Add your blogs to your github profile using my Github Blog Cards](https://github.com/harshprajapati8347/Github-Cards-External-Blogs)  -->
 
 ---
 
@@ -86,11 +87,12 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 **Check the Repositories and don't forget to give a star.** 👇
 
-:star: From [Souravdey777](https://github.com/Souravdey777)
+:star: From [harshprajapati8347](https://github.com/harshprajapati8347)
 
-[website]: https://souravdey777.github.io/Portfolio/
-[twitter]: https://twitter.com/Souravdey777
-[youtube]: https://youtube.com/
-[instagram]: https://www.instagram.com/souravdey777/
-[linkedin]: https://www.linkedin.com/in/sourav-dey/
-[medium]: https://medium.com/@Souravdey777/
+[website]: https://github.com/harshprajapati8347
+[twitter]: https://twitter.com/harshpr54762192
+[youtube]: https://www.youtube.com/channel/UCGrekJRFqeI7SP4o06CuxPg
+[instagram]: https://www.instagram.com/_h_a_r_s_h26
+[linkedin]: https://www.linkedin.com/in/harsh-prajapati-1780921aa/
+[facebook]: https://medium.com/harsh.prajapati.777
+
