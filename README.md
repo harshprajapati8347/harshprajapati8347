@@ -36,11 +36,11 @@
 
 
 ### You can find in me in the web 🌍
-[<img align="left" alt="HarshPrajapati" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="HarshPrajapati | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][facebook]
-[<img align="left" alt="HarshPrajapati | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="HarshPrajapati | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="HarshPrajapati | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="HarshPrajapati | Github" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="HarshPrajapati | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][Facebook]
+[<img align="left" alt="HarshPrajapati | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
+[<img align="left" alt="HarshPrajapati | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
+[<img align="left" alt="HarshPrajapati | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 
 <br/>
 
@@ -65,5 +65,5 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 [youtube]: https://www.youtube.com/channel/UCGrekJRFqeI7SP4o06CuxPg
 [instagram]: https://www.instagram.com/_h_a_r_s_h26
 [linkedin]: https://www.linkedin.com/in/harsh-prajapati-1780921aa/
-[facebook]: https://medium.com/harsh.prajapati.777
+[facebook]: https://facebook.com/harsh.prajapati.777
 
