@@ -3,30 +3,22 @@
 ---
 
 <p align="center">
-  <img src="./Profile.gif" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="./assets/Profile.gif" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 I am a Full-stack Web Developer who is exploring new technologies 👨‍💻 while facilitating the world with User Experience  with my Design Thinking Skills and Enthusiast about WEB. :wink:
 
  🔭 I’m building Projects in **MERN Stack WEB**.
  
- 🌱 I’m currently Expertizing <img src="./m.png"><img src="./e.png"><img src="./react-native.png"><img src="./n.png"> MERN Stack.
+ 🌱 I’m currently Expertizing <img src="./assets/m.png"><img src="./assets/e.png"><img src="./assets/react-native.png"><img src="./assets/n.png"> MERN Stack.
  
- :books: I want to learn <img src="./react-native.png">React-Native
- and <img src="./ai.png"/> Artificial Intelligence. 
+ :books: I want to learn <img src="./assets/react-native.png">React-Native
+ and <img src="./assets/ai.png"/> Artificial Intelligence. 
  
  👯 I’m looking to collaborate for a **MERN** based or any **WEB project**.
  
- <!-- 🤔 I’m looking for help with [Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs). -->
- 
  💬 Ask me about Full Stack Development, Version Control Tool , and any Tech-related stuff.
-
-<!-- 
-![Profile views]()  <img src="https://img.shields.io/github/followers/harshprajapati8347?label=Follow" style=" float:left, margin-right:10px" /> -->
-
-
----
-
+ 
 
 ### Tech & Tools Preference
 
