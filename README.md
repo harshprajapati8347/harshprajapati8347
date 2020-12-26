@@ -8,16 +8,18 @@
 
 I am a Full-stack Web Developer who is exploring new technologies 👨‍💻 while facilitating the world with User Experience  with my Design Thinking Skills and Enthusiast about WEB. :wink:
 
+
+
  <!-- 🔭 I’m planning to build Projects in **MERN Stack WEB**. -->
  
- 🌱 I’m currently Expertizing <img src="./MERN-logo.png" style="background:black"> MERN Stack 
+ 🌱 I’m currently Expertizing <img src="./m.png"><img src="./e.png"><img src="./react-native.png"><img src="./n.png"> MERN Stack 
  
- :books: I want to learn <img src="./react-native.png">
- and AI <img src="./ai.png"/>
+ :books: I want to learn <img src="./react-native.png">React-Native
+ and Artificial Intelligence <img src="./ai.png"/>
  
- 👯 I’m looking to collaborate for a MERN based or any WEB project **Doc App**.
+ 👯 I’m looking to collaborate for a **MERN** based or any **WEB project**.
  
- 🤔 I’m looking for help with [Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs).
+ <!-- 🤔 I’m looking for help with [Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs). -->
  
  💬 Ask me about Full Stack Development, Version Control Tool , and any Tech-related stuff.
 
