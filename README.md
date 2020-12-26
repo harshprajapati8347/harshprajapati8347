@@ -3,26 +3,26 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="./Profile.gif" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 I am a Full-stack Web Developer who is exploring new technologies 👨‍💻 while facilitating the world with User Experience  with my Design Thinking Skills and Enthusiast about WEB. :wink:
 
- <!-- 🔭 I’m planning for a Project **Vision: Awsome SVG design Portfoli **. -->
+ <!-- 🔭 I’m planning to build Projects in **MERN Stack WEB**. -->
  
- 🌱 I’m currently Expertizing <img src="./MERN-logo.png" style="width:60px;height:20px"> MERN Stack 
+ 🌱 I’m currently Expertizing <img src="./MERN-logo.png" style="background:black"> MERN Stack 
  
- :books: I want to learn <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
- and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
+ :books: I want to learn <img src="./react-native.png">
+ and AI <img src="./ai.png"/>
  
- 👯 I’m looking to collaborate for a Flutter and ML-based project **Doc App**.
+ 👯 I’m looking to collaborate for a MERN based or any WEB project **Doc App**.
  
  🤔 I’m looking for help with [Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs).
  
- 💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
+ 💬 Ask me about Full Stack Development, Version Control Tool , and any Tech-related stuff.
 
-
-![Profile views](https://gpvc.arturio.dev/Souravdey777)  <img src="https://img.shields.io/github/followers/Souravdey777?label=Follow" style=" float:left, margin-right:10px" />
+<!-- 
+![Profile views]()  <img src="https://img.shields.io/github/followers/harshprajapati8347?label=Follow" style=" float:left, margin-right:10px" /> -->
 
 
 ---
