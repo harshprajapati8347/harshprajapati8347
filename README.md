@@ -1,4 +1,4 @@
-### Hey Sourav here 👋
+### Hey Harsh Prajapati here 👋
 
 ---
 
@@ -6,11 +6,11 @@
   <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
+I am a Full-stack Web Developer who is exploring new technologies 👨‍💻 while facilitating the world with User Experience  with my Design Thinking Skills and Enthusiast about WEB. :wink:
+
+ <!-- 🔭 I’m planning for a Project **Vision: Awsome SVG design Portfoli **. -->
  
- 🔭 I’m planning for a Project **Vision: ML-based System for Blinds**.
- 
- 🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform
+ 🌱 I’m currently Expertizing <img src="./MERN-logo.png" style="width:60px;height:20px"> MERN Stack 
  
  :books: I want to learn <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
  and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
