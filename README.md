@@ -6,7 +6,7 @@
 
 - 💻 I’m working on **MERN Stack WEB DEV Projects**.
  
-- 🌱 I’m currently Expertizing <img src="./assets/m.png"><img src="./assets/e.png"><img src="./assets/react-native.png"><img src="./assets/n.png"> MERN Stack.
+<!-- - 🌱 I’m currently Expertizing <img src="./assets/m.png"><img src="./assets/e.png"><img src="./assets/react-native.png"><img src="./assets/n.png"> MERN Stack. -->
  
 - 👨‍💻 I’m looking to collaborate for a **MERN** based or any **WEB project**.
 
