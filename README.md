@@ -4,7 +4,7 @@
 
 - 🎓 I'm currently Pursuing B.Tech (Information Technology) (2019-2023).
 
-- 💻 I want to learn **Python**.(Begginer)
+- 💻 I want to learn **Python**.(Beginer) and **React Native**.(Beginner)
  
 <!-- - 🌱 I’m currently Expertizing <img src="./assets/m.png"><img src="./assets/e.png"><img src="./assets/react-native.png"><img src="./assets/n.png"> MERN Stack. -->
  
