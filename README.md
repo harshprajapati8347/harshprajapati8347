@@ -52,7 +52,6 @@
 [Add your blogs to your github profile using my Github Blog Cards](https://github.com/harshprajapati8347/Github-Cards-External-Blogs)  -->
 
 
-
 Let's connect 👨‍💻 and forge the future together.😁✌
 
 **Check the Repositories and don't forget to give a star.** 👇
@@ -62,7 +61,7 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 [website]: https://github.com/harshprajapati8347
 [twitter]: https://twitter.com/harshpr54762192
 [youtube]: https://www.youtube.com/channel/UCGrekJRFqeI7SP4o06CuxPg
-[instagram]: https://www.instagram.com/_h_a_r_s_h26
+[instagram]: https://www.instagram.com/harsh_pr26/
 [linkedin]: https://www.linkedin.com/in/harsh-prajapati-1780921aa/
 [facebook]: https://facebook.com/harsh.prajapati.777
 
