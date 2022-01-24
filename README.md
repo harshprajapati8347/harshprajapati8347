@@ -1,13 +1,13 @@
 ![Profile Background](https://github.com/harshprajapati8347/harshprajapati8347/blob/main/assets/profile-background.png)
 
 
-### 👋 <a target="_blank" href="https://harsh-prajapati.netlify.app/">Personal Portfolio 🚀</a>
+### 👋 <a target="_blank" href="http://www.harshprajapati.me">Personal Portfolio 🚀</a>
 
-- 🔭 I'm currently working on __MERN Stack WEB Developement__.
+- 🔭 I'm currently doing __MERN Stack WEB Developement__.
 
 - 🎓 I'm Pursuing B.Tech (Information Technology) (2019-2023).
 
-- 💻 Exploring **Python**.(Beginer) and **React Native**.(Beginner)
+- 💻 Next -> **Python**.(Beginer) and **React Native**.(Beginner)
  
 <!-- - 🌱 I’m currently Expertizing <img src="./assets/m.png"><img src="./assets/e.png"><img src="./assets/react-native.png"><img src="./assets/n.png"> MERN Stack. -->
  
