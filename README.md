@@ -1,7 +1,7 @@
 ![Profile Background](https://github.com/harshprajapati8347/harshprajapati8347/blob/main/assets/profile-background.png)
 
 
-### 👋 <a target="_blank" href="https://www.harshprajapati.me">Personal Portfolio 🚀</a>
+### 👋 <a target="_blank" href="http://www.harshprajapati.me">Personal Portfolio 🚀</a>
 
 - 🔭 I'm currently doing __MERN Stack WEB Developement__.
 
