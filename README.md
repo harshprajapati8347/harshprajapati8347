@@ -15,8 +15,6 @@
 
 - ⚡ Check out my Portfolio <a href = "https://iamharsh.in">iamharsh.in</a>
 
-- ⚡ Fun fact **I am debugging like a detective in a crime movie where I am also the Murderer**
-
 - 📫 How to reach me **harshprajapati0123@gmail.com**
 
 ### 🤝 Connect with me:
